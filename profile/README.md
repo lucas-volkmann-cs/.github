@@ -4,7 +4,7 @@
 Esta organização reúne meus projetos práticos desenvolvidos durante o curso de Ciência da Computação na Estácio.
 <br>
 <br>
-Como a faculdade possui uma abordagem mais teórica e com pouca exigência de projetos práticos, decidi criar este espaço para aplicar de forma ativa os conteúdos das disciplinas, desenvolver habilidades técnicas e construir um portfólio relevante para o mercado de trabalho.
+Decidi criar este espaço para aplicar de forma ativa os conteúdos das disciplinas, desenvolver habilidades técnicas e construir um portfólio relevante para o mercado de trabalho.
 
 ## 🎯 Objetivo
 O principal objetivo desta organização é complementar minha formação acadêmica por meio de projetos reais, explorando tecnologias e conceitos ensinados nas matérias do curso.
